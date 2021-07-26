@@ -1,5 +1,7 @@
 # Travel-s-JR-desafio-2
-Desafio feito pela Hiring Coders
+
+* Desafio feito pela Hiring Coders.
+* Site feito utilizando efeito parallax
 
 ## Linguagens Utilizadas
 
