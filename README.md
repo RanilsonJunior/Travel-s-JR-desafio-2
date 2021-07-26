@@ -1,5 +1,5 @@
 # Travel-s-JR-desafio-2
-Desafio feito pela hHiring Coders
+Desafio feito pela Hiring Coders
 
 ## Linguagens Utilizadas
 
