@@ -1,4 +1,5 @@
 # Travel-s-JR-desafio-2
+Desafio feito pela hHiring Coders
 
 ## Linguagens Utilizadas
 
@@ -7,4 +8,4 @@
 * Java Script
 
 ## Autor
-@RanilsonJunior
+RanilsonJunior
